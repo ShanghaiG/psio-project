@@ -31,12 +31,10 @@ System do obliczania wieku i warunków wzrostu drzewa na podstawie słojów rocz
  
 
  
-
-229300 – Bartłomiej Ołubek 
-
-229326 – Daniel Waprzko 
-
-209479 – Ksawery Szwankowski 
+Autorzy:
+Bartłomiej O. 
+Daniel W. 
+Ksawery S.
 
  
 
